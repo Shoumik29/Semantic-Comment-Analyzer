@@ -1,1 +1,1 @@
-It is a Laravel Project of a comment filter which understand the comments semantically and filter them
+Developed a Laravel-based web application for advanced comment analysis, featuring semantic filtering and search functionalities to assess and manage comments based on contextual understanding.
